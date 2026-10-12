@@ -4,7 +4,7 @@ As a university student, I do not really get the time to game anymore, but when 
 
 In Battles 2, you are only allowed to use one hero and three towers in a match. Therefore, it becomes key that you choose towers with good synergy in order to maximise your chances of winning.
 
-**🔗 Live app:** <!-- paste your Streamlit URL here once deployed -->
+**🔗 Live app:** https://btd-battles-2-combo-stats.streamlit.app/
 
 ## Overview
 
