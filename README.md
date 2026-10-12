@@ -38,8 +38,8 @@ The fix was to start the search from the HoM leaderboard. Since HoM players gene
 ## Running It Locally
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/haadi-work/btd-battles-2-combo-stats.git
+cd btd-battles-2-combo-stats
 pip install -r requirements.txt
 streamlit run app.py
 ```
